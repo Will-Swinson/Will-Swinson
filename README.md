@@ -49,7 +49,7 @@ I'm a Software Engineer that specializes in web design, and I dabble in other la
 
 <!-- END YOUTUBE-CARDS -->
 
-[](https://www.youtube.com/c/UC7VmhGsLfRXzoP1qAQtaL9Q?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/UC7VmhGsLfRXzoP1qAQtaL9Q?sub_confirmation=1)
 
 ### 📊 Stats
 
