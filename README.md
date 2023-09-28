@@ -1,4 +1,3 @@
-```sh
 # ☯ Will Swinson
 
 **`Software Engineer | Content Creator  | 10x Developers | US Army Veteran`**
@@ -67,4 +66,3 @@ I'm a Software Engineer that specializes in web design, and I dabble in other la
 
 [website]: https://www.will-swinson.com/
 [youtube]: https://www.youtube.com/@WillSwinson
-```
