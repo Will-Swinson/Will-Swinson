@@ -39,14 +39,12 @@ I'm a Software Engineer that specializes in web design, and I dabble in other la
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
 [![Master JSX  #reactjs #jsx](https://ytcards.demolab.com/?id=Vu3ruv6A4iQ&title=Master+JSX++%23reactjs+%23jsx&lang=en&timestamp=1695860497&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Master JSX  #reactjs #jsx")](https://www.youtube.com/watch?v=Vu3ruv6A4iQ)
 [![HTML For Beginners](https://ytcards.demolab.com/?id=pNMDMGmAHb0&title=HTML+For+Beginners&lang=en&timestamp=1695860355&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "HTML For Beginners")](https://www.youtube.com/watch?v=pNMDMGmAHb0)
 [![Master JSX in 5 minutes](https://ytcards.demolab.com/?id=7_75bjxO5Ks&title=Master+JSX+in+5+minutes&lang=en&timestamp=1695854040&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Master JSX in 5 minutes")](https://www.youtube.com/watch?v=7_75bjxO5Ks)
 [![Study Session | Q&A w/ Software Engineer!](https://ytcards.demolab.com/?id=7fDnPy-FsQ0&title=Study+Session+%7C+Q%26A+w%2F+Software+Engineer%21&lang=en&timestamp=1695737595&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Study Session | Q&A w/ Software Engineer!")](https://www.youtube.com/watch?v=7fDnPy-FsQ0)
 [![HTML Basics for Absolute Beginners](https://ytcards.demolab.com/?id=2yAPH4XV768&title=HTML+Basics+for+Absolute+Beginners&lang=en&timestamp=1695684862&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "HTML Basics for Absolute Beginners")](https://www.youtube.com/watch?v=2yAPH4XV768)
 [![Chrome Developer Tools Explained: Enhance Your Web Development! | Quick Tips & Tricks 🌐🛠️  #chrome](https://ytcards.demolab.com/?id=SqDAlhBdyAA&title=Chrome+Developer+Tools+Explained%3A+Enhance+Your+Web+Development%21+%7C+Quick+Tips+%26+Tricks+%F0%9F%8C%90%F0%9F%9B%A0%EF%B8%8F++%23chrome&lang=en&timestamp=1695421563&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chrome Developer Tools Explained: Enhance Your Web Development! | Quick Tips & Tricks 🌐🛠️  #chrome")](https://www.youtube.com/watch?v=SqDAlhBdyAA)
-
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/UC7VmhGsLfRXzoP1qAQtaL9Q?sub_confirmation=1)
