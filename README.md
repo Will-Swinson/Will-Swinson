@@ -1,6 +1,6 @@
 # ☯ Will Swinson
 
-**`Software Engineer | Content Creator  | 10x Developers | US Army Veteran`**
+**` 10x Developers | Software Engineer | Content Creator | US Army Veteran`**
 
 I'm a Software Engineer that specializes in web design, and I dabble in other languages as well. I'm the CEO of 10x Developers and the "[WillSwinson](https://www.youtube.com/@WillSwinson)" youtube where we work to get coding beginners into web design and start building their dream projects and acheive their dream jobs. Helping people obtain their goals in coding and web develop is my way of paying it forward for the ones who have helped me! We have obtained over 100 subscriber and are continuing to help and grow!.
 
